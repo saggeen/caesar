@@ -80,11 +80,11 @@ int main()
 
     if (isValidEmail(email)) 
     {
-        cout << "Успех!\n";
+        cout << "Да\n";
     }
     else 
     {
-        cout << "Введите корректные данные!\n";
+        cout << "Нет\n";
     }
 
     return 0;
